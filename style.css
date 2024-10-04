@@ -1,0 +1,282 @@
+    /* BODY CSS BY ME*/
+
+body 
+{ 
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #e6e6e6;
+}
+
+    /* H1 CSS BY ME*/
+
+h1 {
+    text-align: right;
+}
+
+    /* H3 CSS BY ME*/
+
+h3 {
+    padding: 2%;
+    
+}
+
+    /* HEADER CSS BY ME*/
+
+header {
+    text-align: center;
+    background-color: #e6e6e6;
+}
+    /* NAV CSS BY ME*/
+
+nav {
+    background-color: #0b95a2;
+    text-align: center;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 0px;
+    max-width: 100%;
+    height: auto;
+}
+    /* DIV CSS BY ME*/
+
+div {
+    border-left: 50px;
+    border-right: 50px;
+    border-top: 20px;
+    border-bottom: 20px
+}
+
+    /* VIDEO CSS BY ME*/
+
+#video {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    border-radius: 2%;
+}
+
+    /* A CSS BY ME*/
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0 20px;
+    height: auto;
+    width: auto;
+}
+
+    /*THOSE PSEUDO CLASSES I TRIED TO WRITE MYSELF BUT FAILED I HAD TO SUPPORT MYSELF WITH CHAT GPT OTHERWISE DID NOT WORK*/
+    /* COLORS ADDED BY ME*/
+
+a:active {
+    color: #053d42;
+  }
+
+a:hover {
+    color: whitesmoke;
+  }
+
+a:focus {
+    color: #053d42;
+}
+
+    /* FOOTER CSS BY ME*/
+
+footer {
+    background-color: #0b95a2;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    position: sticky;
+    border-top: 20px;
+}
+
+    /* HEADER_PHOTO CLASS CSS BY ME*/
+
+.header_photo {
+    width: 1215px;
+    height: 500px;
+    max-width: 100%;
+    
+}
+
+    /* THE id CSS BY ME*/
+
+#the {
+    text-align: right;
+}
+
+    /* IMG CSS BY ME*/
+
+img {
+    border-radius: 5px;
+}
+
+    /* MAP id CSS BY ME*/
+
+#map {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 2%;
+}
+
+    /* FORM CLASS CSS BY ME*/
+
+.form {
+    max-width: none;
+    width: 80%;
+    margin-right: 20%;
+    margin-left: 8%;
+    padding: 20px;
+    border-radius: 2%;
+    background-color: #0b95a2;
+    margin-bottom: 20px
+}
+
+    /* LABEL CSS BY ME*/
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+    /* ALL INPUT FOR CONTACT FORM CSS BY ME*/
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 2%;
+    box-sizing: border-box;
+}
+
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 2%;
+    box-sizing: border-box;
+}
+
+input[type="name"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 2%;
+    box-sizing: border-box;
+}
+
+    /* TEXTAREA CSS BY ME*/
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 2%;
+    box-sizing: border-box;
+}
+
+    /* INPUT FOR RADIO AND SUBMIT CSS BY ME*/
+
+input[type="radio"] {
+    margin-right: 10px;
+    background-color: #053d42;
+}
+
+input[type="submit"] {
+    background-color: #e6e6e6;
+    
+}
+
+    /* @MEDIA THIS IS WHAT I FORGOT ABOUT, 
+    I WAS WATCHING YOUTUBE VIDEOS ABOUT IT  TRYING TO FIGURE IT OUT A QUICK FIX FOR ALL OF THE ABOVE CSS TO MAKE IT ADJUSTABLE FOR SMALLER SCREENS*/
+    /* I ALSO CHECKED WHAT TYPE OF SCREENS ARE MOST COMMON SO SET MAX 480px FOR MOBILE AND 768px FOR TABLET DEVICES*/
+    /* ALL MEDIA CSS WRITTEN AND ADJUSTED BY ME*/
+
+@media (max-width: 480px) {
+    body {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+    h1 {
+        text-align: right;
+    }
+
+    h3 {
+        padding: 2%;
+    }
+
+    a   { 
+        font-size: 12px;
+    }
+
+    nav {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .form {
+        width: 80%;
+        margin-left: 10px
+    }
+
+    .header_photo {
+        width: 100%;
+        height: auto;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    body {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    nav {
+        font-size: 18px;
+    }
+
+    h3 {
+        padding: 2%;
+    }
+
+    a {
+        font-size: 15px;
+    }
+    
+    .form {
+        width: 85%;
+        margin-left: 35px;
+    }
+
+    #video {
+        width: 90%;
+        margin-left: 30px;
+    }
+
+    .header_photo {
+        height: 300px;
+    }
+}

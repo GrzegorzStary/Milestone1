@@ -96,7 +96,7 @@ The webpage was designed to evoke the feeling of professionalism, and as well as
 ### Colour
 The colour scheme was choosen for its good contrast and for modern appeal. The colors also matchiong company logo. AI color generator, <https://looka.com/logo-maker/> which inspired the color palette that I finally landed on.
 
-![Colour palette](/Users/mylastary/Desktop/MYWEBSITE/SCREENSHOTS/palette.png)
+![Colour palette](https://raw.githubusercontent.com/GrzegorzStary/Milestone1/refs/heads/main/palette.png)
 
 ### Fonts
 Montserrat with sans saris as a fallback was used for the body of entire website. Font weight 400. 

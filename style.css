@@ -133,7 +133,7 @@ img {
     /* FORM CLASS CSS BY ME*/
 
 .form {
-    max-width: none;
+    max-width: auto;
     width: 80%;
     margin-right: 20%;
     margin-left: 8%;
@@ -228,7 +228,7 @@ input[type="submit"] {
     }
     
     .form {
-        width: 270px;
+        width: 80%;
     }
 
     .video {
@@ -266,8 +266,8 @@ input[type="submit"] {
     }
 
     .form {
-            width: 340px;
-            margin: 15px;
+            width: 80%;
+            margin: 20px;
             padding: 20px;
 
     }

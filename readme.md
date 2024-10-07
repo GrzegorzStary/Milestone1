@@ -14,7 +14,7 @@
 - Colour
 - Fonts
 - Structure
-- Wirevrames
+- Wireframes
 
 ### Technologies Used
 - Languages
@@ -29,12 +29,6 @@
 - Performance
 - Device testing
 - Browser compatibility
-
-### Bugs
-### Future Features
-### Deployment
-### Credits
-### Acknowledgements
 
 # Project Goals
 
@@ -188,25 +182,27 @@ Below the image is located navigation bar that contain four easly visible and re
  - All four pages passed W3C Markup Validation Service
 
 ## Home
-![homevalidation](/Users/mylastary/Desktop/MYWEBSITE/SCREENSHOTS/homevalidator.png)
+![homevalidation](homevalidator.png)
 
 ## Commercial
-![commercialvalidation](/Users/mylastary/Desktop/MYWEBSITE/SCREENSHOTS/commercialvalidator.png)
+![commercialvalidation](commercialvalidator.png)
 
 ## Hobby
-![hobbyvalidator](/Users/mylastary/Desktop/MYWEBSITE/SCREENSHOTS/hobbyvalidator.png)
+![hobbyvalidator](hobbyvalidator.png)
 
 ## Contact
-![contactvalidator](/Users/mylastary/Desktop/MYWEBSITE/SCREENSHOTS/contactvalidator.png)
+![contactvalidator](contactvalidator.png)
 
 # CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate CSS of the website.
 
-![cssvalidator](/Users/mylastary/Desktop/MYWEBSITE/SCREENSHOTS/cssvalidator.png)
+![cssvalidator](cssvalidator.png)
 
 # Accessibility
 
 ### Performance
+Performance tested on all four pages.
+
 ![indexperformance](indexperformance.png)
 ![commercialperformance](commercialperformance.png)
 ![hobbyperformance](hobbyperformance.png)

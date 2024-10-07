@@ -134,6 +134,7 @@ Below the image is located navigation bar that contain four easly visible and re
 ### Logo and Navigation Bar
 - Featured on all four pages
 - Navbar is responsive and shrinking to smaller size of fonts to fit text within a navbar on smaller screens.
+- On Small screen Home button is disappering, to comeback to Home user need to click Logo on the top of the page.
 - It allow users to navigate the page 
 - Stays below main image
 - Logo is clickable and it will re-direct user back to the home page when clicked.
@@ -199,6 +200,16 @@ The W3C Jigsaw CSS Validation Service was used to validate CSS of the website.
 ![cssvalidator](cssvalidator.png)
 
 # Accessibility
+The WAVE WebAIM evaluation tools was used to meet high accessibility standards. All pagess pass with zero errors.
+There are two contrast errors regarding footer text. Hovewer all the text is clearly visible. 
+Footer text got the same collor pattern as navbar. 
+Navbar pass with no issues.
+
+![indexaim](aim1.png)
+![indexfooteraim](aim2.png)
+![commercialaim](aim3.png)
+![hobbyaim](aim5.png)
+![contactaim](aim4.png)
 
 ### Performance
 Performance tested on all four pages.

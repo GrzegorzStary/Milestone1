@@ -207,14 +207,19 @@ The W3C Jigsaw CSS Validation Service was used to validate CSS of the website.
 # Accessibility
 
 ### Performance
+![indexperformance](indexperformance.png)
+![commercialperformance](commercialperformance.png)
+![hobbyperformance](hobbyperformance.png)
+![contactperformance](contactperformance.png)
 
 ### Performing tests on various devices
 The website was tested on following devices:
-- 
-- 
-- 
-- 
-- 
+- Galaxy Note 3
+- Galaxy S8
+- iPhone 14 Pro Max
+- iPhone 13
+- iPad Mini
+- MacBook Pro 16-inch
 
 ### Browser compatibility
 The website was tested on following browsers:

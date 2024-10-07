@@ -108,13 +108,56 @@ Below the image is located navigation bar that contain four easly visible and re
 
 ### Wireframes
 
-1. Home 
-
+1. Home
+- Computer Screen
+   ![computer](indexbig1.png)
+   ![computer](indexbig2.png)
+  
+- Cellphone Screen
+  ![cell](indexsmall1.png)
+  ![cell](indexsmall2.png)
+  ![cell](indexsmall3.png)
+   
 2. Commercial
+- Computer Screen
+  ![computer](combig1.png)
+  ![computer](combig2.png)
+  ![computer](combig3.png)
+
+- Cellphone Screen
+  ![cell](comsm1.png)
+  ![cell](comsm2.png)
+  ![cell](comsm3.png)
+  ![cell](comsm4.png)
 
 3. Hobby
+   - Computer Screen
+  ![computer](hobbig1.png)
+  ![computer](hobbig2.png)
+  ![computer](hobbig3.png)
+
+- Cellphone Screen
+  ![cell](hobsm1.png)
+  ![cell](hobsm2.png)
+  ![cell](hobsm3.png)
+  ![cell](hobsm4.png)
 
 4. Contact
+   - Computer Screen
+  ![computer](contbig1.png)
+  ![computer](contbig2.png)
+  ![computer](contbig3.png)
+  ![computer](contbig4.png)
+  ![computer](contbig5.png)
+  ![computer](contbig6.png)
+
+- Cellphone Screen
+  ![cell](contsm1.png)
+  ![cell](contsm2.png)
+  ![cell](contsm3.png)
+  ![cell](contsm4.png)
+  ![cell](contsm5.png)
+  ![cell](contsm6.png)
 
 # Technologies Used
 

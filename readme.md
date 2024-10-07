@@ -95,7 +95,7 @@ The colour scheme was choosen for its good contrast and for modern appeal. The c
 ### Fonts
 Montserrat with sans saris as a fallback was used for the body of entire website. Font weight 400. 
 
-![Fonts](/Users/mylastary/Desktop/MYWEBSITE/SCREENSHOTS/font.png)
+![Fonts](font.png)
 
 ### Structure
 The structure of the page is build in a recognisable and intuitive format. Upon arriving to the werbsite user sees a familiar type of a drone in motion. Stardrone name and logo above it.

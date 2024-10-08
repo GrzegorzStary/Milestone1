@@ -71,8 +71,6 @@
 #### Returning User
 - As a returning user, I want to see the location.
 - As a returning user, I want to easily contact the shop.
-- As a returning user, I want to see any changes to the prices.
-- As a returning user, I want to see any updates in drone market.
 - As a returning user, I want to find the drone shop on social media.
 
 #### Site Owner
@@ -278,3 +276,99 @@ The website was tested on following browsers:
 - Firefox
 
 ### Testing user stories
+
+#### FIRST TIME USER:
+
+- As a first time user, I want to know where the store is located.
+
+| Feature | Action | Result | Expected Result
+|:-----------|:-----:|:-------:|------------:|
+| Contact   | Choose "Contact" and scroll down to see the contact form. | Visible contact form | Works as expected|
+| Address  | Scroll down to see the address.| Works as expected |
+| Map | Scorll further to see the map. | See a map showing drone store location | Works as expected |
+
+
+
+- As a first time user, I want to know the prices and more about types as well as uses of a drone.
+
+| Feature | Action | Result | Expected Result
+|:-----------|:------:|:------:|------------:|
+|Navbar| Choose from the nav bar Commercial for comerrcial drones and scroll down to see drone types, description and prices next to specific drone. | Visible prices ranges | Works as expected | |
+|Navbar| Choose from the nav bar Hobby for hobby drones and scroll down to see drone types, description and prices next to specific drone. |Visible prices ranges | Works as expected | |
+
+
+
+
+#### RETURNING USER:
+
+- As a returning user, I want to see the location.
+
+| Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+Navbar| Choose "Contact" scroll down to see the map with pinned location | Visible google map from with motorway connections | Works as expected|
+
+
+
+- As a returning user, I want to easily contact the shop.
+
+  | Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+Navbar| Choose "Contact" scroll down to see the contact form | Visible contact form | Works as expected|
+
+
+
+- As a returning user, I want to find the drone shop on social media.
+
+  | Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+Footer| Scroll down to see the footer with social media pages. | Visible footer and clickable logos | Works as expected|
+
+
+
+#### Site Owner
+
+- As the site owner, I want to be able considerable cut admin time spent giving out basic information that you can now find on the website.
+
+ | Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+| Home | Fist page scroll down | Read general overwiev | Works as expected |
+| Video | First page scroll below owerview | Click play button on video | Works as expected|
+| Footer | Scroll to the bottom of any page | See the footer click any logo | Works as expected |
+| Commercial | Use navigation bar and click commercial| See the commercial types of drones | Works as expected |
+| Hobby | Use navigation bar and click hobby | See the commercial types of drones | Works as expexcted |
+| Contact | Use navigation bar and click "contact" then scroll down to see overwiev | See the overview | Works as expected|
+| Form | Use navigation bar and click "contact" scroll down to see the form | See the contact form | Works as expected |
+| Address | Use navigation bar and click "contact" scroll down below the form to se tha address | Works as expected |
+| Map | Use navigation bar and click "contact" scroll down to the bottom of the page | Visible google map | Works as expected|
+| Logo | From any page click logo on top of the page to comeback to home| Click logo | Works as expected |
+
+
+- As the site owner, I want users to know the drone shop and trust us with our expertise.
+
+  | Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+| Hobby | Chose Hobby from the nav bar and scroll down | Visible hobby drone types | Works as expected |
+| Commercial | Choose Commercial from the nav bar and scroll down | Visible commercial drones | Works as expected |
+
+
+- As the site owner, I want the users to be able to contact us.
+
+  | Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+| Contact | Click contact to the nav bar and scroll down | Visible contact details | Works as expected |
+
+
+- As the site owner, I want the users to be able to find us.
+
+| Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+| Contact | Click contact to the nav bar and scroll down | Visible map | Works as expected |
+
+
+- As the site owner, I want to capture new busness with the contact form and store data safely.
+
+  | Feature | Action | Result | Expected Result |
+|:--------:|:------:|:------:|:---------------:|
+| Contact | Click contact to the nav bar and scroll down | Visible contact form | Works as expected |
+
+

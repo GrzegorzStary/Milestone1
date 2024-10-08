@@ -439,6 +439,6 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 https://grzegorzstary.github.io/Milestone1/index.html
 
 ### To access readme.md please follow:
-GrzegorzStary/Milestone1/readme.md
+https://github.com/GrzegorzStary/Milestone1/edit/main/readme.md
 
 

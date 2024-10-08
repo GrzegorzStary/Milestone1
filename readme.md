@@ -295,11 +295,15 @@ The website was tested on following browsers:
 | Address  | Scroll down to see the address.| Works as expected |
 | Map | Scorll further to see the map. | See a map showing drone store location | Works as expected |
 
-![]()
+![where](wherelocated1.png)
 
-![]()
 
-![]()
+![where](wherelocated2.png)
+![where](wherelocated3.png)
+![where](wherelocated4.png)
+![where](wherelocated5.png)
+![where](wherelocated6.png)
+
 
 - As a first time user, I want to know the prices and more about types as well as uses of a drone.
 
@@ -308,10 +312,14 @@ The website was tested on following browsers:
 |Navbar| Choose from the nav bar Commercial for comerrcial drones and scroll down to see drone types, description and prices next to specific drone. | Visible prices ranges | Works as expected | |
 |Navbar| Choose from the nav bar Hobby for hobby drones and scroll down to see drone types, description and prices next to specific drone. |Visible prices ranges | Works as expected | |
 
-![]()
+![kinds](kinds1.png)
 
-![]()
-
+![kinds](kinds2.png)
+![kinds](kinds3.png)
+![kinds](kinds4.png)
+![kinds](kinds5.png)
+![kinds](kinds6.png)
+![kinds](kinds7.png)
 
 #### RETURNING USER:
 

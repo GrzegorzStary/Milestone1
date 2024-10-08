@@ -295,7 +295,11 @@ The website was tested on following browsers:
 | Address  | Scroll down to see the address.| Works as expected |
 | Map | Scorll further to see the map. | See a map showing drone store location | Works as expected |
 
+![]()
 
+![]()
+
+![]()
 
 - As a first time user, I want to know the prices and more about types as well as uses of a drone.
 
@@ -304,7 +308,9 @@ The website was tested on following browsers:
 |Navbar| Choose from the nav bar Commercial for comerrcial drones and scroll down to see drone types, description and prices next to specific drone. | Visible prices ranges | Works as expected | |
 |Navbar| Choose from the nav bar Hobby for hobby drones and scroll down to see drone types, description and prices next to specific drone. |Visible prices ranges | Works as expected | |
 
+![]()
 
+![]()
 
 
 #### RETURNING USER:
@@ -315,7 +321,7 @@ The website was tested on following browsers:
 |:--------|:------:|:------:|---------------:|
 Navbar| Choose "Contact" scroll down to see the map with pinned location | Visible google map from with motorway connections | Works as expected|
 
-
+![]()
 
 - As a returning user, I want to easily contact the shop.
 
@@ -323,7 +329,7 @@ Navbar| Choose "Contact" scroll down to see the map with pinned location | Visib
 |:--------|:------:|:------:|---------------:|
 Navbar| Choose "Contact" scroll down to see the contact form | Visible contact form | Works as expected|
 
-
+![]()
 
 - As a returning user, I want to find the drone shop on social media.
 
@@ -331,7 +337,7 @@ Navbar| Choose "Contact" scroll down to see the contact form | Visible contact f
 |:--------|:------:|:------:|---------------:|
 Footer| Scroll down to see the footer with social media pages. | Visible footer and clickable logos | Works as expected|
 
-
+![]()
 
 #### Site Owner
 
@@ -350,6 +356,26 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 | Map | Use navigation bar and click "contact" scroll down to the bottom of the page | Visible google map | Works as expected|
 | Logo | From any page click logo on top of the page to comeback to home| Click logo | Works as expected |
 
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
 
 - As the site owner, I want users to know the drone shop and trust us with our expertise.
 
@@ -358,6 +384,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 | Hobby | Chose Hobby from the nav bar and scroll down | Visible hobby drone types | Works as expected |
 | Commercial | Choose Commercial from the nav bar and scroll down | Visible commercial drones | Works as expected |
 
+![]()
 
 - As the site owner, I want the users to be able to contact us.
 
@@ -365,6 +392,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact details | Works as expected |
 
+![]()
 
 - As the site owner, I want the users to be able to find us.
 
@@ -372,6 +400,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible map | Works as expected |
 
+![]()
 
 - As the site owner, I want to capture new busness with the contact form and store data safely.
 
@@ -379,4 +408,4 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact form | Works as expected |
 
-
+![]()

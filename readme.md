@@ -372,26 +372,14 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 | Map | Use navigation bar and click "contact" scroll down to the bottom of the page | Visible google map | Works as expected|
 | Logo | From any page click logo on top of the page to comeback to home| Click logo | Works as expected |
 
-![]()
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
+![biz](biz1.png)
+![biz](biz2.png)
+![biz](wherelocated5.png)
+![biz](wherelocated3.png)
+![biz](wherelocated4.png)
+![biz](wherelocated5.png)
+![biz](wherelocated6.png)
+![biz](biz3.png)
 
 
 - As the site owner, I want users to know the drone shop and trust us with our expertise.

@@ -210,7 +210,15 @@
         border-radius: 2%;
         box-sizing: border-box;
     }
-    
+
+    input[type="tel"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border: 1px solid #ffffff;
+        border-radius: 2px;
+        box-sizing: border-box;
+    }
         /* TEXTAREA CSS BY ME*/
     
     textarea {

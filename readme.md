@@ -368,10 +368,11 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 | Hobby | Use navigation bar and click hobby | See the commercial types of drones | Works as expexcted |
 | Contact | Use navigation bar and click "contact" then scroll down to see overwiev | See the overview | Works as expected|
 | Form | Use navigation bar and click "contact" scroll down to see the form | See the contact form | Works as expected |
-| Address | Use navigation bar and click "contact" scroll down below the form to se tha address | Works as expected |
+| Address | Use navigation bar and click "contact" scroll down below the form to se tha address | See the address field. | Works as expected |
 | Map | Use navigation bar and click "contact" scroll down to the bottom of the page | Visible google map | Works as expected|
 | Logo | From any page click logo on top of the page to comeback to home| Click logo | Works as expected |
 
+![]()
 ![]()
 
 ![]()
@@ -400,7 +401,14 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 | Hobby | Chose Hobby from the nav bar and scroll down | Visible hobby drone types | Works as expected |
 | Commercial | Choose Commercial from the nav bar and scroll down | Visible commercial drones | Works as expected |
 
-![]()
+![kinds](kinds1.png)
+
+![kinds](kinds2.png)
+![kinds](kinds3.png)
+![kinds](kinds4.png)
+![kinds](kinds5.png)
+![kinds](kinds6.png)
+![kinds](kinds7.png)
 
 - As the site owner, I want the users to be able to contact us.
 
@@ -408,7 +416,10 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact details | Works as expected |
 
-![]()
+![where](wherelocated1.png)
+![where](wherelocated2.png)
+![where](wherelocated5.png)
+
 
 - As the site owner, I want the users to be able to find us.
 
@@ -416,7 +427,9 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible map | Works as expected |
 
-![]()
+![where](wherelocated1.png)
+![where](wherelocated2.png)
+![where](wherelocated6.png)
 
 - As the site owner, I want to capture new busness with the contact form and store data safely.
 
@@ -424,4 +437,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact form | Works as expected |
 
-![]()
+![where](wherelocated1.png)
+![where](wherelocated2.png)
+![where](wherelocated3.png)
+![where](wherelocated4.png)

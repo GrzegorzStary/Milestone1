@@ -108,21 +108,25 @@ Below the image is located navigation bar that contain four easly visible and re
 
 1. Home
 - Computer Screen
+  
    ![computer](indexbig1.png)
    ![computer](indexbig2.png)
   
 - Cellphone Screen
+  
   ![cell](indexsmall1.png)
   ![cell](indexsmall2.png)
   ![cell](indexsmall3.png)
    
 2. Commercial
 - Computer Screen
+  
   ![computer](combig1.png)
   ![computer](combig2.png)
   ![computer](combig3.png)
 
 - Cellphone Screen
+  
   ![cell](comsm1.png)
   ![cell](comsm2.png)
   ![cell](comsm3.png)
@@ -130,11 +134,13 @@ Below the image is located navigation bar that contain four easly visible and re
 
 3. Hobby
    - Computer Screen
+     
   ![computer](hobbig1.png)
   ![computer](hobbig2.png)
   ![computer](hobbig3.png)
 
 - Cellphone Screen
+  
   ![cell](hobsm1.png)
   ![cell](hobsm2.png)
   ![cell](hobsm3.png)
@@ -142,6 +148,7 @@ Below the image is located navigation bar that contain four easly visible and re
 
 4. Contact
    - Computer Screen
+     
   ![computer](contbig1.png)
   ![computer](contbig2.png)
   ![computer](contbig3.png)
@@ -150,6 +157,7 @@ Below the image is located navigation bar that contain four easly visible and re
   ![computer](contbig6.png)
 
 - Cellphone Screen
+  
   ![cell](contsm1.png)
   ![cell](contsm2.png)
   ![cell](contsm3.png)
@@ -304,7 +312,7 @@ The website was tested on following browsers:
 - As a returning user, I want to see the location.
 
 | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 Navbar| Choose "Contact" scroll down to see the map with pinned location | Visible google map from with motorway connections | Works as expected|
 
 
@@ -312,7 +320,7 @@ Navbar| Choose "Contact" scroll down to see the map with pinned location | Visib
 - As a returning user, I want to easily contact the shop.
 
   | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 Navbar| Choose "Contact" scroll down to see the contact form | Visible contact form | Works as expected|
 
 
@@ -320,7 +328,7 @@ Navbar| Choose "Contact" scroll down to see the contact form | Visible contact f
 - As a returning user, I want to find the drone shop on social media.
 
   | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 Footer| Scroll down to see the footer with social media pages. | Visible footer and clickable logos | Works as expected|
 
 
@@ -330,7 +338,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 - As the site owner, I want to be able considerable cut admin time spent giving out basic information that you can now find on the website.
 
  | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 | Home | Fist page scroll down | Read general overwiev | Works as expected |
 | Video | First page scroll below owerview | Click play button on video | Works as expected|
 | Footer | Scroll to the bottom of any page | See the footer click any logo | Works as expected |
@@ -346,7 +354,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 - As the site owner, I want users to know the drone shop and trust us with our expertise.
 
   | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 | Hobby | Chose Hobby from the nav bar and scroll down | Visible hobby drone types | Works as expected |
 | Commercial | Choose Commercial from the nav bar and scroll down | Visible commercial drones | Works as expected |
 
@@ -354,21 +362,21 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 - As the site owner, I want the users to be able to contact us.
 
   | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact details | Works as expected |
 
 
 - As the site owner, I want the users to be able to find us.
 
 | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible map | Works as expected |
 
 
 - As the site owner, I want to capture new busness with the contact form and store data safely.
 
   | Feature | Action | Result | Expected Result |
-|:--------:|:------:|:------:|:---------------:|
+|:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact form | Works as expected |
 
 

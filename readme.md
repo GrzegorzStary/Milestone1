@@ -319,7 +319,7 @@ Navbar| Choose "Contact" scroll down to see the map with pinned location | Visib
 
 - As a returning user, I want to easily contact the shop.
 
-  | Feature | Action | Result | Expected Result |
+| Feature | Action | Result | Expected Result |
 |:--------|:------:|:------:|---------------:|
 Navbar| Choose "Contact" scroll down to see the contact form | Visible contact form | Works as expected|
 
@@ -327,7 +327,7 @@ Navbar| Choose "Contact" scroll down to see the contact form | Visible contact f
 
 - As a returning user, I want to find the drone shop on social media.
 
-  | Feature | Action | Result | Expected Result |
+| Feature | Action | Result | Expected Result |
 |:--------|:------:|:------:|---------------:|
 Footer| Scroll down to see the footer with social media pages. | Visible footer and clickable logos | Works as expected|
 
@@ -337,7 +337,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 
 - As the site owner, I want to be able considerable cut admin time spent giving out basic information that you can now find on the website.
 
- | Feature | Action | Result | Expected Result |
+| Feature | Action | Result | Expected Result |
 |:--------|:------:|:------:|---------------:|
 | Home | Fist page scroll down | Read general overwiev | Works as expected |
 | Video | First page scroll below owerview | Click play button on video | Works as expected|
@@ -353,7 +353,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 
 - As the site owner, I want users to know the drone shop and trust us with our expertise.
 
-  | Feature | Action | Result | Expected Result |
+| Feature | Action | Result | Expected Result |
 |:--------|:------:|:------:|---------------:|
 | Hobby | Chose Hobby from the nav bar and scroll down | Visible hobby drone types | Works as expected |
 | Commercial | Choose Commercial from the nav bar and scroll down | Visible commercial drones | Works as expected |
@@ -361,7 +361,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 
 - As the site owner, I want the users to be able to contact us.
 
-  | Feature | Action | Result | Expected Result |
+| Feature | Action | Result | Expected Result |
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact details | Works as expected |
 
@@ -375,7 +375,7 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 
 - As the site owner, I want to capture new busness with the contact form and store data safely.
 
-  | Feature | Action | Result | Expected Result |
+| Feature | Action | Result | Expected Result |
 |:--------|:------:|:------:|---------------:|
 | Contact | Click contact to the nav bar and scroll down | Visible contact form | Works as expected |
 

@@ -30,6 +30,8 @@
 - Device testing
 - Browser compatibility
 
+### Deployment
+
 # Project Goals
 
 ### User Goals
@@ -429,3 +431,14 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 ![where](wherelocated2.png)
 ![where](wherelocated3.png)
 ![where](wherelocated4.png)
+
+
+# Deployment 
+
+### To access the website please click this link:
+https://grzegorzstary.github.io/Milestone1/index.html
+
+### To access readme.md please follow:
+GrzegorzStary/Milestone1/readme.md
+
+

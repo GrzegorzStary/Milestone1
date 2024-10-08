@@ -30,6 +30,7 @@
 - Device testing
 - Browser compatibility
 
+### Future Features
 ### Deployment
 
 # Project Goals
@@ -433,12 +434,31 @@ Footer| Scroll down to see the footer with social media pages. | Visible footer 
 ![where](wherelocated4.png)
 
 
+# Future Features
+
+In the future, i would like to add the following features:
+
+ - Check stock availability for custommers
+ - Shop with 100% genuine parts for drones we offer
+ - Newsletter  
+
+
 # Deployment 
 
-### To access the website please click this link:
-https://grzegorzstary.github.io/Milestone1/index.html
+### The website was deployed using GitHub Pages by following these steps:
 
-### To access readme.md please follow:
-https://github.com/GrzegorzStary/Milestone1/edit/main/readme.md
+- In the GitHub repository navigate to the Settings tab
+- On the left hand menu select Pages
+- For the source select Branch: main
+- After the webpage refreshes automaticaly you will see: Your site is live at https://grzegorzstary.github.io/Milestone1/
 
+### You can fork the repository by following these steps:
 
+- Go to the GitHub repository
+- Click on Fork button in upper right hand corner
+
+### You can clone the repository by following these steps:
+
+- Go to the GitHub repository
+- Locate the Code button above the list of files and click it.
+- Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard.

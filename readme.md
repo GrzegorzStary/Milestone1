@@ -329,15 +329,21 @@ The website was tested on following browsers:
 |:--------|:------:|:------:|---------------:|
 Navbar| Choose "Contact" scroll down to see the map with pinned location | Visible google map from with motorway connections | Works as expected|
 
-![]()
+![where](wherelocated1.png)
+
+![where](wherelocated2.png)
+![where](wherelocated6.png)
 
 - As a returning user, I want to easily contact the shop.
 
 | Feature | Action | Result | Expected Result |
 |:--------|:------:|:------:|---------------:|
-Navbar| Choose "Contact" scroll down to see the contact form | Visible contact form | Works as expected|
+Navbar| Choose "Contact" scroll down to see the address | Visible address | Works as expected|
 
-![]()
+![where](wherelocated1.png)
+
+![where](wherelocated2.png)
+![where](wherelocated5.png)
 
 - As a returning user, I want to find the drone shop on social media.
 
@@ -345,7 +351,9 @@ Navbar| Choose "Contact" scroll down to see the contact form | Visible contact f
 |:--------|:------:|:------:|---------------:|
 Footer| Scroll down to see the footer with social media pages. | Visible footer and clickable logos | Works as expected|
 
-![]()
+![social](social1.png)
+![social](social2.png)
+
 
 #### Site Owner
 

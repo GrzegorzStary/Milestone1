@@ -32,6 +32,10 @@
 
 ### Future Features
 ### Deployment
+### Bugs
+### Code
+### Acknowledgements
+
 
 # Project Goals
 
@@ -462,3 +466,22 @@ In the future, i would like to add the following features:
 - Go to the GitHub repository
 - Locate the Code button above the list of files and click it.
 - Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard.
+
+# Bugs
+
+- There were many bugs on the website, most of them related to poor responsiveness and alignment issues with the boxes on the site. These bugs were fixed by adjusting values within the CSS file.
+- Another issue was with the contact form: the number field was accepting both numbers and letters. This was fixed with a slight adjustment, thanks to ChatGPT, as I didn't have enough knowledge to resolve it on my own.
+- The website initially lacked a box for the address, which was added later.
+- Currently, there are no known bugs remaining.
+  
+# Code
+
+- There was no too long code taken from anywhere this is why I will not include anything here. Everythin borrowed from external source is marked within the HTML / CSS code.
+- Code was in 95% written by myself.
+
+# Acknowledgements
+
+- Firstly I would like to thank to myself for perstistance and not giving up in creating this project.
+- Big thank you to the Code Institute and my Teacher Ross Phillips for providing me with easy to understand knowledge.
+- Thank to my wife for taking care of our child so that I culd focus and make that website happen.
+- Thank you to all the people that found little bit of time in theirs busy lifes to test my website and give me some ideas what could be changed and adjusted.
